@@ -3,4 +3,4 @@ while True:
 	if name == 'q':
 		break
 	else:
-		print('your name is', name)
+		print('your name is not', name)
